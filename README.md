@@ -18,6 +18,9 @@ List of genes : CISH, IL6, IL6R, JAK1, JAK2, JAK3, PIAS3, PTPRU, REG1A, SRC, STA
 Code:
 my_stat3 <- c('CISH','IL6','ILR6','JAK1','JAK2','JAK3','PIAS3','PTERU','REG1A','SRC','STAT3')
 
+ mohit <- c('13','15','67','24','90','43','39','32','55','34','57')
+ 
+
 
 
 
