@@ -20,6 +20,10 @@ my_stat3 <- c('CISH','IL6','ILR6','JAK1','JAK2','JAK3','PIAS3','PTERU','REG1A','
 
  mohit <- c('13','15','67','24','90','43','39','32','55','34','57')
  
+ ny <- data.frame(my_stat3,mohit)
+ ny
+ 
+ 
 
 
 
